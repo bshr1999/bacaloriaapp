@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "118877186358",
+    "project_id": "arena-da8ed",
+    "storage_bucket": "arena-da8ed.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:118877186358:android:8aa9e4528a1aa368c12b97",
+        "android_client_info": {
+          "package_name": "com.example.arena"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "118877186358-eiklbocg72tolql50ncuicoftjnde2ml.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.arena",
+            "certificate_hash": "dd3e7ca85d923367bf1b06ba8fff9c0c95b01754"
+          }
+        },
+        {
+          "client_id": "118877186358-2v65r7ajbta6lgvf5sgq35tlmvepm4qg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEzrwgNR6t5hDC634NIu-ZIgpM8tfHeOA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "118877186358-2v65r7ajbta6lgvf5sgq35tlmvepm4qg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
